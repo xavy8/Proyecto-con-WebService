@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/WcfService1.DataContract" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/WcfService1.DataContract" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfdc_ObtCtes">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="dc_ObtCtes" nillable="true" type="tns:dc_ObtCtes" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfdc_ObtCtes" nillable="true" type="tns:ArrayOfdc_ObtCtes" />
+  <xs:complexType name="dc_ObtCtes">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Cliente" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Delegacion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Nombre" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="dc_ObtCtes" nillable="true" type="tns:dc_ObtCtes" />
+  <xs:complexType name="ArrayOfdc_VerInfo">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="dc_VerInfo" nillable="true" type="tns:dc_VerInfo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfdc_VerInfo" nillable="true" type="tns:ArrayOfdc_VerInfo" />
+  <xs:complexType name="dc_VerInfo">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="AnioPublicacion" type="xs:int" />
+      <xs:element minOccurs="0" name="Autor" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Editorial" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Genero" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Opcion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Titulo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TituloOriginal" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="dc_VerInfo" nillable="true" type="tns:dc_VerInfo" />
+</xs:schema>

@@ -1,0 +1,21 @@
+C:\Users\luperez\source\repos\Clientes\WcfService1\bin\WcfService1.dll.config
+C:\Users\luperez\source\repos\Clientes\WcfService1\bin\WcfService1.dll
+C:\Users\luperez\source\repos\Clientes\WcfService1\bin\WcfService1.pdb
+C:\Users\luperez\source\repos\Clientes\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\luperez\source\repos\Clientes\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\luperez\source\repos\Clientes\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\luperez\source\repos\Clientes\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+H:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\WcfService1\bin\WcfService1.dll.config
+H:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\WcfService1\bin\WcfService1.dll
+H:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\WcfService1\bin\WcfService1.pdb
+H:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+H:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\WcfService1\obj\Debug\WcfService1.dll
+H:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\WcfService1\obj\Debug\WcfService1.pdb
+F:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\WcfService1\bin\WcfService1.dll.config
+F:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\WcfService1\bin\WcfService1.dll
+F:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\WcfService1\bin\WcfService1.pdb
+F:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+F:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+F:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\WcfService1\obj\Debug\WcfService1.dll
+F:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\WcfService1\obj\Debug\WcfService1.pdb
+H:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache

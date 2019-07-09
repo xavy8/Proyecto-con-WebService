@@ -1,0 +1,29 @@
+C:\Users\luperez\source\repos\Clientes\ClientesWcf\bin\ClientesWcf.dll.config
+C:\Users\luperez\source\repos\Clientes\ClientesWcf\bin\ClientesWcf.dll
+C:\Users\luperez\source\repos\Clientes\ClientesWcf\bin\ClientesWcf.pdb
+C:\Users\luperez\source\repos\Clientes\ClientesWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\luperez\source\repos\Clientes\ClientesWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\luperez\source\repos\Clientes\ClientesWcf\obj\Debug\ClientesWcf.csproj.CoreCompileInputs.cache
+C:\Users\luperez\source\repos\Clientes\ClientesWcf\obj\Debug\ClientesWcf.dll
+C:\Users\luperez\source\repos\Clientes\ClientesWcf\obj\Debug\ClientesWcf.pdb
+C:\Users\luperez\source\repos\Clientes\ClientesWcf\obj\Debug\ClientesWcf.csprojResolveAssemblyReference.cache
+H:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\ClientesWcf\bin\ClientesWcf.dll.config
+H:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\ClientesWcf\bin\ClientesWcf.dll
+H:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\ClientesWcf\bin\ClientesWcf.pdb
+H:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\ClientesWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\ClientesWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\ClientesWcf\obj\Debug\ClientesWcf.csproj.CoreCompileInputs.cache
+H:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\ClientesWcf\obj\Debug\ClientesWcf.dll
+H:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\ClientesWcf\obj\Debug\ClientesWcf.pdb
+F:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\ClientesWcf\bin\ClientesWcf.dll.config
+F:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\ClientesWcf\bin\ClientesWcf.dll
+F:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\ClientesWcf\bin\ClientesWcf.pdb
+F:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\ClientesWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\ClientesWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\ClientesWcf\obj\Debug\ClientesWcf.csprojAssemblyReference.cache
+F:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\ClientesWcf\obj\Debug\ClientesWcf.csproj.CoreCompileInputs.cache
+F:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\ClientesWcf\obj\Debug\ClientesWcf.csproj.CopyComplete
+F:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\ClientesWcf\obj\Debug\ClientesWcf.dll
+F:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\ClientesWcf\obj\Debug\ClientesWcf.pdb
+H:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\ClientesWcf\obj\Debug\ClientesWcf.csprojAssemblyReference.cache
+H:\Practicas y desarrollos Visual Studio 2017\repos\Clientes\ClientesWcf\obj\Debug\ClientesWcf.csproj.CopyComplete

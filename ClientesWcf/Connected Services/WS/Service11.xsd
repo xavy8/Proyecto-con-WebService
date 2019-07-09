@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:61054/Service1.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WcfService1.DataContract" />
+  <xs:element name="ObtCtes">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="id" type="xs:int" />
+        <xs:element minOccurs="0" name="cliente" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ObtCtesResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/WcfService1.DataContract" minOccurs="0" name="ObtCtesResult" nillable="true" type="q1:ArrayOfdc_ObtCtes" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Registro">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="Opcion" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Titulo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="TituloOriginal" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Autor" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Genero" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Editorial" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="AnioPublicacion" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="RegistroResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="RegistroResult" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="VerInfo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="opcion" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="titulo" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="VerInfoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/WcfService1.DataContract" minOccurs="0" name="VerInfoResult" nillable="true" type="q2:ArrayOfdc_VerInfo" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
